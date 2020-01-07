@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - pandas
+  - import_ipynb
+  - ipywidgets
+  - plotly
+  - plotly.graph_objs
+  - numpy
